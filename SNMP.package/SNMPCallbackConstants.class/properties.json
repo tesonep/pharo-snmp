@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "SharedPool",
+	"category" : "SNMP-Constants",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SNMP_CALLBACK_APPLICATION",
+		"SNMP_CALLBACK_LIBRARY",
+		"SNMP_CALLBACK_LOGGING",
+		"SNMP_CALLBACK_POST_PREMIB_READ_CONFIG",
+		"SNMP_CALLBACK_POST_READ_CONFIG",
+		"SNMP_CALLBACK_PRE_PREMIB_READ_CONFIG",
+		"SNMP_CALLBACK_PRE_READ_CONFIG",
+		"SNMP_CALLBACK_SESSION_INIT",
+		"SNMP_CALLBACK_SHUTDOWN",
+		"SNMP_CALLBACK_STORE_DATA"
+	],
+	"instvars" : [ ],
+	"name" : "SNMPCallbackConstants",
+	"type" : "normal"
+}

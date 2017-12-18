@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FFILibrary",
+	"category" : "SNMP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SNMPLibrary",
+	"type" : "normal"
+}

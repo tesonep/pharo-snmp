@@ -1,0 +1,28 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalStructure",
+	"category" : "SNMP-Agent-Variables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_AGENTREQINFO",
+		"OFFSET_DELEGATED",
+		"OFFSET_INCLUSIVE",
+		"OFFSET_INDEX",
+		"OFFSET_NEXT",
+		"OFFSET_ORIGREPEAT",
+		"OFFSET_PARENTDATA",
+		"OFFSET_PREV",
+		"OFFSET_PROCESSED",
+		"OFFSET_RANGEEND",
+		"OFFSET_RANGEENDLEN",
+		"OFFSET_REPEAT",
+		"OFFSET_REQUESTVB",
+		"OFFSET_REQUESTVBSTART",
+		"OFFSET_STATUS",
+		"OFFSET_SUBTREE"
+	],
+	"instvars" : [ ],
+	"name" : "SNMPRequestInfo",
+	"type" : "normal"
+}

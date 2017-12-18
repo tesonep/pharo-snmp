@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalArray",
+	"category" : "SNMP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SNMPOid",
+	"type" : "normal"
+}

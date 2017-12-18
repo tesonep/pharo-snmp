@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FFILibrary",
+	"category" : "SNMP-Agent",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SNMPAgentLibrary",
+	"type" : "normal"
+}

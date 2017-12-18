@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "SNMPCallback",
+	"category" : "SNMP-Logging",
+	"classinstvars" : [ ],
+	"pools" : [
+		"SNMPCallbackConstants"
+	],
+	"classvars" : [
+		"RegisteredCallback"
+	],
+	"instvars" : [ ],
+	"name" : "SNMPLogCallback",
+	"type" : "normal"
+}

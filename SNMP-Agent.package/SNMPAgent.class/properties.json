@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SNMP-Agent",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
+	"instvars" : [
+		"agentProcess",
+		"running",
+		"variables",
+		"configuration"
+	],
+	"name" : "SNMPAgent",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+allSetted
+	^ self subclassResponsibility 

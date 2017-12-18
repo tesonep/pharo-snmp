@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalStructure",
+	"category" : "SNMP-Agent-Variables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_AGENTDATA",
+		"OFFSET_AGENTSESSION",
+		"OFFSET_MODE"
+	],
+	"instvars" : [ ],
+	"name" : "SNMPAgentRequestInfo",
+	"type" : "normal"
+}

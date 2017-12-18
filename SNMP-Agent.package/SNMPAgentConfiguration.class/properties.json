@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SNMP-Agent",
+	"classinstvars" : [ ],
+	"pools" : [
+		"SNMPAgentDefaultStoreConstants",
+		"SNMPStoreIdConstants"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"socketString",
+		"configFileDirectory",
+		"applicationName",
+		"persistenceDirectory"
+	],
+	"name" : "SNMPAgentConfiguration",
+	"type" : "normal"
+}

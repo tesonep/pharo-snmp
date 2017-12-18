@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalArray",
+	"category" : "SNMP-Agent-Generic-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "FDSet",
+	"type" : "normal"
+}

@@ -1,0 +1,27 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalEnumeration",
+	"category" : "SNMP-Agent-Variables",
+	"classinstvars" : [ ],
+	"pools" : [
+		"SNMPVariableModes"
+	],
+	"classvars" : [
+		"ASN_BIT_STR",
+		"ASN_BOOLEAN",
+		"ASN_COUNTER",
+		"ASN_GAUGE",
+		"ASN_INTEGER",
+		"ASN_IPADDRESS",
+		"ASN_NULL",
+		"ASN_OBJECT_ID",
+		"ASN_OCTET_STR",
+		"ASN_OPAQUE",
+		"ASN_SEQUENCE",
+		"ASN_SET",
+		"ASN_TIMETICKS"
+	],
+	"instvars" : [ ],
+	"name" : "SNMPVariableType",
+	"type" : "normal"
+}

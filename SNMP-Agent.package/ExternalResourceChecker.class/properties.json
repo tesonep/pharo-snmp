@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SNMP-Agent-Utils",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileDescriptors",
+		"semaphore",
+		"semaphoreIndex",
+		"read",
+		"write",
+		"exceptions"
+	],
+	"name" : "ExternalResourceChecker",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalStructure",
+	"category" : "SNMP-Agent-Generic-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_TV_SEC",
+		"OFFSET_TV_USEC"
+	],
+	"instvars" : [ ],
+	"name" : "Timeval",
+	"type" : "normal"
+}

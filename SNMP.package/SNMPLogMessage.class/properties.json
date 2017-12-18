@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "FFIExternalStructure",
+	"category" : "SNMP-Logging",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_MESSAGE",
+		"OFFSET_PRIORITY"
+	],
+	"instvars" : [ ],
+	"name" : "SNMPLogMessage",
+	"type" : "normal"
+}

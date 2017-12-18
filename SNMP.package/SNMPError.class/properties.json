@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "SNMP-Errors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"errorCode"
+	],
+	"name" : "SNMPError",
+	"type" : "normal"
+}

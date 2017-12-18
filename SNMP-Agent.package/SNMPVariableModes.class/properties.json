@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "SharedPool",
+	"category" : "SNMP-Agent-Variables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"HANDLER_CAN_BABY_STEP",
+		"HANDLER_CAN_DEFAULT",
+		"HANDLER_CAN_GETANDGETNEXT",
+		"HANDLER_CAN_GETBULK",
+		"HANDLER_CAN_NOT_CREATE",
+		"HANDLER_CAN_RONLY",
+		"HANDLER_CAN_RWRITE",
+		"HANDLER_CAN_SET",
+		"HANDLER_CAN_SET_ONLY",
+		"HANDLER_CAN_STASH"
+	],
+	"instvars" : [ ],
+	"name" : "SNMPVariableModes",
+	"type" : "normal"
+}

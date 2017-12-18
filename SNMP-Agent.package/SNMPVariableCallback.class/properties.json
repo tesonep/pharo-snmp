@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "FFICallback",
+	"category" : "SNMP-Agent-Variables",
+	"classinstvars" : [ ],
+	"pools" : [
+		"SNMPVariableModes"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"setBlock",
+		"getBlock",
+		"type"
+	],
+	"name" : "SNMPVariableCallback",
+	"type" : "normal"
+}

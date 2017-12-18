@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SNMP-Agent-Variables",
+	"classinstvars" : [ ],
+	"pools" : [
+		"SNMPVariableModes"
+	],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"oid",
+		"type",
+		"setBlock",
+		"getBlock",
+		"callback",
+		"registrationInfo"
+	],
+	"name" : "SNMPVariable",
+	"type" : "normal"
+}
